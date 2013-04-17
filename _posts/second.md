@@ -3,8 +3,8 @@ layout: default
 title: 你好，22222 世界
 ---
 
-<h2>{{ page.title }}</h2>
+<h2>hjhkltryj</h2>
 
 *我的第一篇文章*
 
-<p>{{ page.date | date_to_string }}</p>
+<p>ghjkljfgh</p>
